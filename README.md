@@ -22,11 +22,11 @@
 
 #### Google interviewing tips - Youtube Videos
 
-[Interview tips from Google Software Engineers](https://www.youtube.com/watch?v=mOyo4NoFRI4)
+* [Interview tips from Google Software Engineers](https://www.youtube.com/watch?v=mOyo4NoFRI4)
 
-[Google Students](https://www.youtube.com/user/GoogleStudents)
+* [Google Students](https://www.youtube.com/user/GoogleStudents)
 
-[Life at Google](https://www.youtube.com/user/lifeatgoogle)
+* [Life at Google](https://www.youtube.com/user/lifeatgoogle)
 
 ### Google Careers Students
 

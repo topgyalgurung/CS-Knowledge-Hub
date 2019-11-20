@@ -1,5 +1,13 @@
 # Computer Science Knowledge Hub
 
+## Apply Jobs at FAANG Companies:
+
+* [Facebook](https://www.facebook.com/careers/jobs)
+* [Apple](https://www.apple.com/jobs/us/teams.html)
+* [Amazon](https://www.amazon.jobs/en/search-jobcategory)
+* [Netflix](https://jobs.netflix.com/)
+* [Google](https://careers.google.com/jobs/)
+
 ## Interview
 
 ### Google recommended Practice for interview 

@@ -44,3 +44,24 @@
 
 [Top 10 Algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 
+### Data Structures
+
+* Arrays
+* LinkedLists
+* Stacks
+* Queues
+* Sets
+* Maps
+* Binary Trees
+* Heaps
+* Graphs
+
+### Algorithms
+
+* Sorting, Searching and Binary Search
+* Divide & Conquer
+* Dynamic Programming and Memorization
+* Greedy Algorithms
+* Recursion
+* Graph traversal, Breadth-first & Depth-first 
+

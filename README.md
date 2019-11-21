@@ -40,3 +40,7 @@
 
 [Google Careers](https://careers.google.com/students/)
 
+### Misc
+
+[Top 10 Algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
+

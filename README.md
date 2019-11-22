@@ -8,6 +8,8 @@
 * [Netflix](https://jobs.netflix.com/)
 * [Google](https://careers.google.com/jobs/)
 
+[Google Summer of Code for Student](https://google.github.io/gsocguides/student/)
+
 ## Interview
 [Google Interview Info - How Google Hire](https://careers.google.com/how-we-hire/interview/#interviews-for-all-roles)
 
@@ -44,7 +46,8 @@
 
 ### Misc
 
-[Top 10 Algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
+* [Top 10 Algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
+* [Google Interview Questions](https://www.geeksforgeeks.org/google-interview-questions/)
 
 ### Data Structures
 

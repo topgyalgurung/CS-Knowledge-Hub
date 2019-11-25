@@ -10,6 +10,8 @@
 
 [Google Summer of Code for Student](https://google.github.io/gsocguides/student/)
 
+[Google Careers for Students](https://careers.google.com/students/)
+
 ## Interview
 [Google Interview Info - How Google Hire](https://careers.google.com/how-we-hire/interview/#interviews-for-all-roles)
 
@@ -39,11 +41,6 @@
 
 * [Life at Google](https://www.youtube.com/user/lifeatgoogle)
 
-### Google Careers Students
-
-[Google Careers](https://careers.google.com/students/)
-
-
 ### Misc
 
 * [Top 10 Algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
@@ -61,7 +58,7 @@
 * Heaps
 * Graphs
 
-### Algorithms
+### [Algorithms](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
 
 * Sorting, Searching and Binary Search
 * Divide & Conquer

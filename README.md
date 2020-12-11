@@ -41,6 +41,11 @@
 
 * [Life at Google](https://www.youtube.com/user/lifeatgoogle)
 
+#### Programming Language
+
+* Python [learnpython](https://www.learnpython.org/en/Welcome)
+* Javascript [explorejs](https://exploringjs.com/impatient-js/toc.html) [javascriptinfo](https://javascript.info/)
+
 ### Misc
 
 * [Top 10 Algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)

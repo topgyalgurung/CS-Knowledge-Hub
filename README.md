@@ -51,6 +51,8 @@
 * [Top 10 Algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 * [Google Interview Questions](https://www.geeksforgeeks.org/google-interview-questions/)
 * [Theory of Algorithms: Princeton University, COS 423, Spring 2018 slides](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
+* [Learn Git by Reading or Doing](https://try.github.io/)
+
 ### [Data Structures](https://www.interviewcake.com/article/python/data-structures-coding-interview?course=dsa)
 
 * Arrays

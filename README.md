@@ -1,5 +1,39 @@
 # Computer Science Knowledge Hub
 
+
+#### Programming Language
+
+* Python [learnpython](https://www.learnpython.org/en/Welcome)
+* Javascript [explorejs](https://exploringjs.com/impatient-js/toc.html) [javascriptinfo](https://javascript.info/)
+
+### Misc
+
+* [Top 10 Algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
+* [Google Interview Questions](https://www.geeksforgeeks.org/google-interview-questions/)
+* [Theory of Algorithms: Princeton University, COS 423, Spring 2018 slides](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
+* [Learn Git by Reading or Doing](https://try.github.io/)
+
+### [Data Structures](https://www.interviewcake.com/article/python/data-structures-coding-interview?course=dsa)
+
+* Arrays
+* LinkedLists
+* Stacks
+* Queues
+* Sets
+* Maps
+* Binary Trees
+* Heaps
+* Graphs
+
+### [Algorithms](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
+
+* Sorting, Searching and Binary Search
+* Divide & Conquer
+* Dynamic Programming and Memorization
+* Greedy Algorithms
+* Recursion
+* Graph traversal, Breadth-first & Depth-first 
+
 ## Apply Jobs at FAANG Companies:
 
 * [Facebook](https://www.facebook.com/careers/jobs)
@@ -41,38 +75,6 @@
 
 * [Life at Google](https://www.youtube.com/user/lifeatgoogle)
 
-#### Programming Language
-
-* Python [learnpython](https://www.learnpython.org/en/Welcome)
-* Javascript [explorejs](https://exploringjs.com/impatient-js/toc.html) [javascriptinfo](https://javascript.info/)
-
-### Misc
-
-* [Top 10 Algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
-* [Google Interview Questions](https://www.geeksforgeeks.org/google-interview-questions/)
-* [Theory of Algorithms: Princeton University, COS 423, Spring 2018 slides](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
-* [Learn Git by Reading or Doing](https://try.github.io/)
-
-### [Data Structures](https://www.interviewcake.com/article/python/data-structures-coding-interview?course=dsa)
-
-* Arrays
-* LinkedLists
-* Stacks
-* Queues
-* Sets
-* Maps
-* Binary Trees
-* Heaps
-* Graphs
-
-### [Algorithms](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
-
-* Sorting, Searching and Binary Search
-* Divide & Conquer
-* Dynamic Programming and Memorization
-* Greedy Algorithms
-* Recursion
-* Graph traversal, Breadth-first & Depth-first 
 
 ### Pre-bootcamp readings, podcasts, videos and work for TTP CUNY2X Fullstack bootcamp
 1) CSS Diner (https://flukeout.github.io/)

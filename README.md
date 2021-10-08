@@ -4,8 +4,10 @@
 #### Programming Language
 
 1. Python [learnpython](https://www.learnpython.org/en/Welcome)
-2. Javascript [explorejs](https://exploringjs.com/impatient-js/toc.html) [javascriptinfo](https://javascript.info/)
-3. Java [JavaSE tutorial](https://docs.oracle.com/javase/tutorial/)
+   - [FutureCoder- A free online interactive Python course](https://futurecoder.io/course/#toc)
+3. Javascript [explorejs](https://exploringjs.com/impatient-js/toc.html) [javascriptinfo](https://javascript.info/)
+4. Java [JavaSE tutorial](https://docs.oracle.com/javase/tutorial/)
+     * [Learning the Java Language: Table of Contents](https://docs.oracle.com/javase/tutorial/java/TOC.html)
      * [The Java Language Environment, white paper by by James Gosling and Henry McGilton.](https://www.oracle.com/java/technologies/language-environment.html)
 
 ### Misc
